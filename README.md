@@ -39,7 +39,7 @@ DateDim: Date-related dimensions with hierarchies
 TimeDim: Time-related dimensions for granular analysis
 
 ## 📁 Dataset Source
-Data from [BTS TranStats](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?select=DelayedFlights.csv)
+Data from [Kaggle Airlines Delay Causes](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?select=DelayedFlights.csv)
 The dataset contains information tracked by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS) on the on-time performance of domestic flights operated by large air carriers, including details on delays, cancellations, and diversions.
 
 
@@ -70,7 +70,6 @@ images/: Dashboard and data model screenshots
 🚀 Getting Started
 
 Clone this repository
-Install required Python packages: pip install -r requirements.txt
 Run data preprocessing scripts in the scripts/ folder
 Open the Power BI dashboard file
 Refresh data connections if needed
